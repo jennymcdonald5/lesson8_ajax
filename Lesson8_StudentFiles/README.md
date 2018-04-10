@@ -4,19 +4,22 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+(April 10, 2018)
 
 ### Student Name:  
-(First and Last Name)
+(Jennifer McDonald)
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+(The application built in this assignment will display information about movies using
+jQuery and AJAX methods to parse JSON data provided by a third party.)
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+(https://jennymcdonald5.github.io/lesson8_ajax/)
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. (JSON stands for JavaScript Object Notation and is a syntax for storing and 
+    exchanging data.)
+2. (JSON is not a document format, a markup language, or a general serialization 
+    format.)
+3. (Ajax allows client web pages to quickly interact and exchange data with a web 
+    server without reloading the entire page.)
